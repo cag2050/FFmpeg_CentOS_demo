@@ -1,0 +1,7 @@
+.idea/
+cmake-build-debug/
+output/
+
+dep/FFmpeg/libs/libavformat.a
+dep/FFmpeg/libs/libavcodec.a
+dep/FFmpeg/libs/libavfilter.a

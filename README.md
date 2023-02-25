@@ -102,3 +102,5 @@ make: *** [all] 错误 2
 --- | ---
 书籍《FFmpeg音视频开发基础与实战》10.1 使用CMake构建工程 | https://weread.qq.com/web/reader/0ab32a10813ab6d6fg015082k9bf32f301f9bf31c7ff0a60
 书籍《FFmpeg音视频开发基础与实战》配套源码 | https://gitee.com/yinwenjie-1/ffmpeg-tutorial
+yuv文件资源网址 | https://media.xiph.org/video/derf/
+YUV存储格式 | https://blog.csdn.net/zhiyuan2021/article/details/123931447

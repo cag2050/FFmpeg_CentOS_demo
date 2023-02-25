@@ -10,4 +10,5 @@ make
 ./hello-world
 ./cmd-dir .
 ./ffmpeg-info
-./video_encoder ../video/bus_cif.yuv ../video/bus_cif.h264 libx264
+./video_encoder ../video/encode_input_352x288_I420_cif.yuv ../video/encode_output.h264 libx264
+./video_decoder ../video/decode_input.h264 ../video/decode_output.yuv
